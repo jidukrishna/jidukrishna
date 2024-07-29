@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jidu Krishna P J</h1>
 <h3 align="center">I write scripts in python for automation (mainly for pi)</h3>
 
-<center><img align="center" src="https://github.com/jidukrishna/jidukrishna/blob/main/lol.gif width=1000></center>
+<center><img align="center" src="https://github.com/jidukrishna/jidukrishna/blob/main/lol.gif" width=500></center>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
