@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jidu Krishna P J</h1>
-<h3 align="center">I write scripts in python for automation (mainly for pi)</h3>
+<h1 align="center"> <img src="https://media.tenor.com/OUv_B2CjJ1oAAAAi/dumis.gif" width=30> Jidu Krishna P J</h1>
+<h3 align="center">I write scripts in python for automation (mainly for pi) <img align="center" src="https://raw.githubusercontent.com/jidukrishna/jidukrishna/6eb7523ad94887e41239e73f7720f0927a136c91/raspberry-pi.svg" width=30></h3>
 
 <center><img align="center" src="https://github.com/jidukrishna/jidukrishna/blob/main/lol.gif" width=1000></center>
 
